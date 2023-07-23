@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.f56993c2.css",
+    "main.js": "/Portfolio/static/js/main.44c2df30.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/infonty_logo.jpg": "/Portfolio/static/media/infonty_logo.57ee6ffd998c7a319762.jpg",
+    "index.html": "/Portfolio/index.html",
+    "main.f56993c2.css.map": "/Portfolio/static/css/main.f56993c2.css.map",
+    "main.44c2df30.js.map": "/Portfolio/static/js/main.44c2df30.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f56993c2.css",
+    "static/js/main.44c2df30.js"
+  ]
+}
