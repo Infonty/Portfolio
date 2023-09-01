@@ -11,7 +11,7 @@ const Education = () => {
           link="http://bvicam.in/"
           title="Masters of Computer Application"
           college="BVICAM"
-          description="2022-2024 | MCA | Pursuing | 7.9 CGPA"
+          description="2022-2024 | MCA | Pursuing | 8.9 CGPA"
         />
         <VerticalCard
           imageUrl=""
