@@ -3,7 +3,7 @@ import {Link} from 'react-scroll';
 import { FaBars, FaGithub, FaLinkedin, FaTimes } from "react-icons/fa";
 import { TbBrandLeetcode } from "react-icons/tb";
 import { BsFillPersonLinesFill } from "react-icons/bs";
-import Logo from "../assets/infonty_logo.jpg";
+import Logo from "../assets/mohit_image.jpg";
 const Navbar = () => {
   // ----------- handling navbar click----------
   const [nav, setNav] = useState(false);
@@ -88,9 +88,9 @@ const Navbar = () => {
           <li className="hover:shadow-md hover:shadow-yellow-500/50 rounded-b-md  bg-[#0C2D48] hover:bg-[#071330] w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-500  hover:border-r-gray-600 border-r-2 border-b-2 border-gray-500  px-4">
             <a
               className="flex justify-between items-center ml-2 w-full text-gray-300"
-              href="Mohit_cv_2023.pdf"
+              href="Mohit_cv_2024.pdf"
               target="_blank"
-              download='Mohit_cv_2023.pdf'
+              download='Mohit_cv_2024.pdf'
             >
               Resume <BsFillPersonLinesFill size={30} />
             </a>
