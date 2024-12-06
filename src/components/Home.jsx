@@ -25,10 +25,7 @@ const Home = () => {
           />
         </h2>
         <p className="text-[#8892b0] py-4 max-w-[700px]">
-          Highly motivated entry-level professional seeking an opportunity to
-          utilize the knowledge gained during the Masters of computer
-          applications . I believe in working with an emerging company and
-          working with excellence in the department of the company.
+          Passionate and detail-oriented junior software developer specializing in backend development. Proficient in creating robust, scalable, and efficient server-side applications. Adept at leveraging modern programming languages and frameworks to solve complex problems. Eager to contribute to innovative projects and continuously learn and grow within the tech industry.
         </p>
         {/* ----button---- */}
         <div>

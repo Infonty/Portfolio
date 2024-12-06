@@ -19,17 +19,13 @@ const About = () => {
           </div>
           <div>
             <p>
-              I'm Mohit, a passionate and goal-oriented individual pursuing my
-              Masters in Computer Application from Bharati Vidyapeeth Institute
-              of Computer Application and Management. I have completed my
-              Bachelor's in Computer Application with 71% from Agra University ,
-              which has provided me with a strong career foundation.
+            Passionate and detail-oriented junior software developer specializing in backend development. Proficient in creating robust, scalable, and efficient server-side applications. Adept at leveraging modern programming languages and frameworks to solve complex problems. Eager to contribute to innovative projects and continuously learn and grow within the tech industry.
             </p>
           </div>
           <div className="sm:mx-auto sm:pl-[400px] sm:pt-[20px]" >
-            <a  href="Mohit_cv_2023.pdf"
+            <a  href="Mohit_cv_2024.pdf"
               target="_blank"
-              download='Mohit_cv_2023.pdf'>
+              download='Mohit_cv_2024.pdf'>
           <button   type="submit" className="hover:text-black inline-block self-end bg-gradient-to-r from-green-400 to-blue-500 hover:from-pink-500 hover:to-yellow-500 bg-[#0a192f] text-white font-bold rounded-lg px-6 py-2 uppercase text-sm">
                         Resume
                   </button>
