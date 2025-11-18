@@ -1,6 +1,26 @@
 input,textarea {
     color: black;
   }
+
+/* Add to text.css */
+.experience-section {
+  margin: 2rem 0;
+}
+.experience-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+.experience-card {
+  background: #fff;
+  border-radius: 8px;
+  padding: 1rem 1.5rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+}
+.experience-duration {
+  font-size: 0.9rem;
+  color: #888;
+}
  
   
   

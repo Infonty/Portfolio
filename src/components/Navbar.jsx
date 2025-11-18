@@ -29,9 +29,10 @@ const Navbar = () => {
             <Link to ='home' smooth={true} duration={500}>Home</Link> </li>
           <li className="cursor-pointer hover:border-b hover:border-[#FFFF5C] hover:scale-105 hover:duration-100"> <Link to ='about' smooth={true} duration={500}>About</Link> </li>
           {/* <li className=" hover:border-b cursor-pointer hover:border-[#FFFF5C] hover:scale-105 hover:duration-100"> <Link to ='skills' smooth={true} duration={500}>Skills</Link> </li> */}
+          <li className="hover:border-b cursor-pointer hover:border-[#FFFF5C] hover:scale-105 hover:duration-100 "> <Link to ='experience' smooth={true} duration={500}>Experience</Link> </li>
           <li className=" cursor-pointer hover:border-b hover:border-[#FFFF5C] hover:scale-105 hover:duration-100"> <Link to ='education' smooth={true} duration={500}>Education</Link> </li>
           <li className="hover:border-b cursor-pointer hover:border-[#FFFF5C] hover:scale-105 hover:duration-100 "> <Link to ='contact' smooth={true} duration={500}>Contact</Link> </li>
-        </ul>
+          </ul>
       
       {/* ------menu--logo---- */}
       <div onClick={handleClick} className="md:hidden pr-2 scale-110  z-[70]">
@@ -51,6 +52,7 @@ const Navbar = () => {
         {/* <li className="py-6 text-4xl cursor-pointer hover:border-b hover:border-[#FFFF5C] hover:scale-105 hover:duration-100"><Link onClick={handleClick} to ='skills' smooth={true} duration={500}>Skills</Link> </li> */}
         <li className="py-6 text-4xl cursor-pointer hover:border-b hover:border-[#FFFF5C] hover:scale-105 hover:duration-100"><Link onClick={handleClick} to ='education' smooth={true} duration={500}>Education</Link> </li>
         <li className="py-6  text-4xl cursor-pointer hover:border-b hover:border-[#FFFF5C] hover:scale-105 hover:duration-100"><Link onClick={handleClick} to ='contact' smooth={true} duration={500}>Contact</Link> </li>
+        <li className="py-6  text-4xl cursor-pointer hover:border-b hover:border-[#FFFF5C] hover:scale-105 hover:duration-100"><Link onClick={handleClick} to ='experience' smooth={true} duration={500}>Experience</Link> </li>
       </ul>
       {/* -----social--icons---- */}
       <div className=" hidden md:flex fixed drop-shadow-2xl flex-col top-[35%] left-0 ">
@@ -88,9 +90,9 @@ const Navbar = () => {
           <li className="hover:shadow-md hover:shadow-yellow-500/50 rounded-b-md  bg-[#0C2D48] hover:bg-[#071330] w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-500  hover:border-r-gray-600 border-r-2 border-b-2 border-gray-500  px-4">
             <a
               className="flex justify-between items-center ml-2 w-full text-gray-300"
-              href="Mohit_cv_2024.pdf"
+              href="Mohit_CV.pdf"
               target="_blank"
-              download='Mohit_cv_2024.pdf'
+              download='Mohit_CV.pdf'
             >
               Resume <BsFillPersonLinesFill size={30} />
             </a>

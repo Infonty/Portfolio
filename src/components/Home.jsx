@@ -18,14 +18,14 @@ const Home = () => {
             }}
             startDelay={2000}
             cursorColor="#3F3D56"
-            multiText={["Student", "Software Developer"]}
+            multiText={["Full Stack Developer", "Backend Enthusiast"]}
             multiTextDelay={2500}
             typeSpeed={50}
             multiTextLoop
           />
         </h2>
         <p className="text-[#8892b0] py-4 max-w-[700px]">
-          Passionate and detail-oriented junior software developer specializing in backend development. Proficient in creating robust, scalable, and efficient server-side applications. Adept at leveraging modern programming languages and frameworks to solve complex problems. Eager to contribute to innovative projects and continuously learn and grow within the tech industry.
+          I build and maintain scalable server-side applications, having spent the past 2 years designing REST APIs with Python, Node.js (Express, Nestjs) and PHP (Laravel) backed by SQL and NoSQL databases. I prioritize clean code, thrive collaborating on innovative projects and have solved 200+ DSA problems to strengthen my problem-solving skills.
         </p>
         {/* ----button---- */}
         <div>
