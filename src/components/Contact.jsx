@@ -57,7 +57,7 @@ const Contact = () => {
                 </div>
                 <div className="inline-flex space-x-2 items-center">
                 <ion-icon className=' text-xl scale-110 ' name="pin"/>
-                <span>Madhuvan Enclave, Delhi,India</span>
+                <span>Indiranagar, Bengaluru, India</span>
                 </div>
              </div>
 
